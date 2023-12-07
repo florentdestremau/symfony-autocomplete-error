@@ -1,6 +1,7 @@
 This project is a reproducer for a bug in Symfony Automcomplete combined with Live Component.
 
 # Install the project
+
 Use PHP8.2 with sqlite and install the dependencies with composer:
 ```bash
 composer install
