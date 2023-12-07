@@ -11,7 +11,7 @@ symfony serve -d
 ```
 # Reproduce the bug
 
-- Go to https://localhost:8000 (your webserver)
+- Go to https://localhost:8000/post (your webserver)
 - Click on the "Add a new post" button
 - Fill the form with a title and a body, check that the "One" category is selected
 - Click on the "Save" button
